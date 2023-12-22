@@ -1,0 +1,16 @@
+{
+  "name": "person-db-torben",
+  "version": "1.0.0",
+  "description": "Meine Persondatenbank",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torben Toepper",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.6",
+    "uuid": "^9.0.1"
+  }
+}
